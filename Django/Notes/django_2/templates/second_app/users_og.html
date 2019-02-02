@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Users_OG</title>
+    <link rel="stylesheet" href="{% static 'css/style_1.css' %}">
+</head>
+<body>
+    <h1>Here are your users:</h1>
+
+    <div class='djangotwo'>
+        {% if users %}
+        <ol>
+            {% for user in users %}
+            <li>{{ user }}</li>
+            <ul>
+                <li>First Name: {{ user.first_name }}</li>
+                <li>Last Name: {{ user.last_name }}</li>
+                <li>Email: {{ user.email }}</li>
+            </ul>
+            {% endfor %}
+        </ol>
+        {% else %}
+            <p>NO ACCESS RECORDS FOUND</p>
+        {% endif %}
+    </div>
+
+</body>
+</html>

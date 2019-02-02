@@ -1,0 +1,541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"days_to",
+				"days_to_second_purchase"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"work",
+				"work_live_study_outside_us"
+			],
+			[
+				"Auth",
+				"AUTHORIZED"
+			],
+			[
+				"selec",
+				"select_by_visible_text"
+			],
+			[
+				"under",
+				"undergrad_end"
+			],
+			[
+				"find",
+				"find_element_by_id"
+			],
+			[
+				"dis",
+				"discipline"
+			],
+			[
+				"v",
+				"select_by_visible_text"
+			],
+			[
+				"NAME",
+				"name"
+			],
+			[
+				"xl",
+				"xlsx_update"
+			],
+			[
+				"xlsx",
+				"xlsx_delete"
+			],
+			[
+				"pre",
+				"prepare_applications"
+			],
+			[
+				"Male",
+				"Michael"
+			],
+			[
+				"get",
+				"get_attribute"
+			],
+			[
+				"how_",
+				"how_did_you_hear_1"
+			],
+			[
+				"compan",
+				"company_name"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"new",
+				"new_company_data"
+			],
+			[
+				"check",
+				"check_exists_by_xpath"
+			],
+			[
+				"find_",
+				"find_element_by_id"
+			],
+			[
+				"element",
+				"find_element_by_xpath"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"top",
+				"top_30_Queries"
+			],
+			[
+				"three_",
+				"three_not_data"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"elastic",
+				"elastic_fit"
+			],
+			[
+				"lasso",
+				"lasso_coefficients"
+			],
+			[
+				"linear",
+				"linear_model"
+			],
+			[
+				"Las",
+				"LinearRegression"
+			],
+			[
+				"vote",
+				"vote"
+			],
+			[
+				"cla",
+				"classification_report"
+			],
+			[
+				"loc",
+				"loc"
+			],
+			[
+				"test",
+				"test_gbc_yhat"
+			],
+			[
+				"lreg",
+				"lreg"
+			],
+			[
+				"gnb",
+				"gnb"
+			],
+			[
+				"gbc_sas",
+				"gbc_sas"
+			],
+			[
+				"fema",
+				"female_age_grouped"
+			],
+			[
+				"fe",
+				"female_age_bin"
+			],
+			[
+				"mosa",
+				"mosaicplot"
+			],
+			[
+				"rfc",
+				"rfc"
+			],
+			[
+				"gn",
+				"gnb_y2_hat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Packagecontrol install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"run A"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part5_master.css",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/CSS_Level_One_Test_Solutions.css",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part3_master.css",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part2_master.css",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part1_master.css",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part5.html",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part3.html",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part2.html",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/CSS_Level_One/Part1.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/congrats.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/assessment_level_2.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/forms_selections.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/forms_labels.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/forms.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/tables_quiz.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/tables.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/attributes.html",
+		"/D/Google Drive/Programming/Code/Python/FJA/PackagePlan_Production_v3.py",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/tables_quiz",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/assessment_level_1.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/lists.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/div_span.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/basics.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/attributes_2.html",
+		"/D/Google Drive/Programming/Udemy/Django/Django-Python-Full-Stack-Web-Devloper-master/HTML_Level_One/HTML_Level_One_Assessment.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/django.png",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/html_assessment_level_1.html",
+		"/D/Google Drive/Programming/Udemy/Django/Notes/HTML/html_assessment_level_1",
+		"/D/Google Drive/Programming/Udemy/Django/HTML/attributes.html",
+		"/D/Google Drive/Programming/Udemy/Django/HTML/div_span.html",
+		"/D/Google Drive/Programming/Udemy/Django/HTML/lists.html",
+		"/D/Google Drive/Programming/Udemy/Django/HTML/basics.html",
+		"/D/Google Drive/Programming/Udemy/Django/HTML/div_span",
+		"/D/Google Drive/Programming/Code/Python/Udemy_Django/basics.html",
+		"/D/Google Drive/Programming/Code/Python/Udemy_Django/Basics.html",
+		"/D/Google Drive/Programming/Code/Python/Assessments/MSKC.py",
+		"/C/Users/Michael/Downloads/dashlane_assessment.py",
+		"/C/Users/Michael/Downloads/dashlane.py",
+		"/D/Google Drive/Programming/Code/Python/Assessments/adMarketplace.py",
+		"/D/Google Drive/Programming/Code/Git/data_analyst_assessments/citi_bike_capstone/code.py",
+		"/D/Google Drive/Programming/Code/Git/data_analyst_assessments/citi_bike_capstone/CitiBike DevUp.ipynb",
+		"/D/Google Drive/Programming/Code/Python/FJA/NWong_XML_Scripts.py",
+		"/D/Google Drive/Zoë's folder/citibike_capstone_michael.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/control.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/user_info_michael.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/workpad.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/application_decision.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/application_scrapers.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/application_fillforms.py",
+		"/C/Users/Michael/Downloads/Takeout/Location History/Location History.json",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/outputdocs/output_01_16_18.txt",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/outputdocs/unanswered_questions.txt",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/outputdocs/workpad.py",
+		"/D/Google Drive/Programming/Code/Git/onejobplease/outputdocs/bugs.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/outputdocs/unanswered_questions.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/outputdocs/output_01_16_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/outputdocs/workpad.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/application_scrapers.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/control.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/application_fillforms.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/user_info_michael.py",
+		"/D/Google Drive/Data Science/Notes/CheatSheets/Git - Commands.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/outputdocs/bugs.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/bugs.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/questions_original.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/output_01_16_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/output_01_13_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/output_01_06_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workdocs/workpad.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/specific_question.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/bugs.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/testdocs/output_01_06_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/workpad.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/testdocs/Output.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/user_info_structure.py",
+		"/C/Users/Michael/Documents/output_01_04_18.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/application_work.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/application_workpad.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/selenium_workpad.py",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/scrape_jobs.py",
+		"/D/Google Drive/Data Science/Code/Python/FJA/NWong_XML_Scripts.py",
+		"/C/Users/Michael/Anaconda3/Scripts/pdf2txt.py",
+		"/D/Google Drive/Data Science/Code/Git/supreme/supreme_selenium.py",
+		"/D/Google Drive/Data Science/Notes/CheatSheets/MongoDB - Commands.txt",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/.git/config",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/.git/description",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/.git/index",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/.git/HEAD",
+		"/D/Google Drive/Data Science/Code/Git/onejobplease/.git/COMMIT_EDITMSG",
+		"/D/Google Drive/Data Science/Notes/CheatSheets/MongoDB - JSON Structure",
+		"/D/Google Drive/Data Science/application_work.py",
+		"/D/Google Drive/Data Science/Code/Python/ActuarialDirectory_Parser.py",
+		"/D/Google Drive/Data Science/Code/Python/reading_text.py",
+		"/D/Google Drive/Data Science/Code/Python/OneJobPlease/Application_v2.py",
+		"/D/Google Drive/Data Science/Code/Python/OneJobPlease/user_info.py",
+		"/D/Google Drive/application_work.py",
+		"/D/Google Drive/applicaion_workpad.py",
+		"/D/Google Drive/selenium_workpad.py",
+		"/D/Google Drive/Data Science/Code/Python/Supreme/supreme_v1.py",
+		"/D/Google Drive/Data Science/Code/Python/PackagePlan_Production_v4.py",
+		"/D/Google Drive/Data Science/Code/Python/IBC_Plan_Edit_v7.py",
+		"/E/Google Drive/selenium_workpad.py",
+		"/E/Google Drive/application_work.py",
+		"/C/Users/Michael/Anaconda3/pkgs/qtconsole-4.2.1-py36_2/Scripts/jupyter-qtconsole-script.py",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/Flask_test.py",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/greenhouse_form_structure.html",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/Application_v2.py",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/user_info.py",
+		"/E/Google Drive/Data Science/Code/application_work.py",
+		"/E/Google Drive/Data Science/Code/JavaScriptCommands.js",
+		"/E/Google Drive/Data Science/Code/supreme_v1.py",
+		"/E/Google Drive/supreme.py",
+		"/E/Google Drive/Data Science/Code/Python/FJA/PackagePlan_Production_v3.py",
+		"/E/Google Drive/Data Science/Code/Python/Kaggle/HouseKernel.py",
+		"/C/Users/Michael/Downloads/functions.py",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/Application.py",
+		"/E/Google Drive/Data Science/Code/Python/Flask_test.py",
+		"/E/Google Drive/draft.py",
+		"/C/Users/Michael/Downloads/draft.py",
+		"/E/Google Drive/Data Science/Code/Python/OneJobPlease/greenhouse_form_structure",
+		"/E/Google Drive/Data Science/Code/Python/Flask_test",
+		"/E/Google Drive/Work/Code/Python/interstingPythonCommands.py",
+		"/E/Google Drive/Application.py",
+		"/E/Google Drive/Shell Voice Command",
+		"/E/Google Drive/Application_newfunc.py",
+		"/C/Users/Michael/Anaconda3/envs/con36env/Scripts/gifmaker.py",
+		"/E/Google Drive/Work/Notes/CheatSheets/Git - Commands",
+		"/E/Google Drive/Work/Code/Python/HouseKernel.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"        \n",
+			"+ ",
+			"rate_of_unique_total",
+			"renewal",
+			"mask_4",
+			"mask_3",
+			"mask_2",
+			"time_to_first_purchase",
+			"df",
+			"table_total_2",
+			"table_total_1",
+			"/",
+			"data",
+			"df",
+			"complete_frame",
+			"print(complete_frame.head())"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.96632996633,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 26.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 90.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "html_level_1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

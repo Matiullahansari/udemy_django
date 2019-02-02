@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Sawarabi Mincho';
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+td{
+    height: 300px;
+    width: 100px;
+    border: 6px solid white;
+}
+#one{
+    background: rgba(237, 174, 73, 1);
+}
+#two{
+    background: rgba(68, 75, 110, 1);
+}
+#three{
+    background: rgba(209, 73, 91, 1);
+}
+#four{
+    background: rgba(0, 121, 140, 1);
+}
+#five{
+    background: rgba(0, 61, 91, 1);
+}
