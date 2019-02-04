@@ -8,15 +8,11 @@
     <p>Principal: {{school_details.principal}}</p>
     <p>Location: {{school_details.location}}</p>
     <h3>Students:</h3>
-
-      {% for student in school_details.students.all %}
-        <p>{{student.name}} who is {{student.age}} years old.</p>
-      {% endfor %}
-
+    {% for student in school_details.students.all %}
+      <p>{{student.name}} who is {{student.age}} years old.</p>
+    {% endfor %}
   </div>
   <div class="container">
     <p><a class='btn btn-warning' href="{% url 'basic_app:update' pk=school_details.pk %}">Update</a></p>
-
   </div>
-
 {% endblock %}
