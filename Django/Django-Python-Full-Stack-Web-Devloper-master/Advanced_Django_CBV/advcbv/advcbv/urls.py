@@ -17,8 +17,6 @@ from django.conf.urls import url,include
 from django.contrib import admin
 from basic_app import views
 
-
-####
 urlpatterns = [
     url('admin/', admin.site.urls,name='admin'),
     url('',views.IndexView.as_view()),
