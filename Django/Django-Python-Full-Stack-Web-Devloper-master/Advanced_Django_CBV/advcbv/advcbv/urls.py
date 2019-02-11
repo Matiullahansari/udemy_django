@@ -18,9 +18,9 @@ from django.contrib import admin
 from basic_app import views
 
 urlpatterns = [
-    url('admin/', admin.site.urls,name='admin'),
-    url('',views.IndexView.as_view()),
+    url(r'^admin/', admin.site.urls,name='admin'),
+    url(r'^$',views.IndexView.as_view()),
     # url('',views.CBView.as_view()),
     # url('',views.index),
-    url('basic_app/',include('basic_app.urls',namespace='basic_app')),
+    url(r'^basic_app/',include('basic_app.urls',namespace='basic_app')),
 ]

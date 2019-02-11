@@ -30,7 +30,7 @@ class IndexView(TemplateView):
 class SchoolListView(ListView):
     context_object_name = 'schools'
     model = models.School
-    #template_name = 'basic_app/school_list.html'
+    template_name = 'basic_app/school_list.html'
 
 
 class SchoolDetailView(DetailView):
