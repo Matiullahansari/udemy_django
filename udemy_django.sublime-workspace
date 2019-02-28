@@ -17,6 +17,14 @@
 			}
 		},
 		{
+			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_confirm_delete.html",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/urls.py",
 			"settings":
 			{
@@ -26,28 +34,10 @@
 			}
 		},
 		{
-			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_confirm_delete.html",
-			"settings":
-			{
-				"buffer_size": 293,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_detail.html",
 			"settings":
 			{
 				"buffer_size": 802,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/models.py",
-			"settings":
-			{
-				"buffer_size": 659,
 				"line_ending": "Windows"
 			}
 		},
@@ -70,19 +60,10 @@
 			}
 		},
 		{
-			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/templates/base.html",
+			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/basic_app_base.html",
 			"settings":
 			{
-				"buffer_size": 1202,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_list.html",
-			"settings":
-			{
-				"buffer_size": 301,
+				"buffer_size": 1316,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -128,13 +109,26 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV",
-		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv",
-		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app",
-		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/templates"
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/advcbv",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/migrations",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/templates"
 	],
 	"file_history":
 	[
+		"/C/Users/13472/AppData/Roaming/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/C/Users/13472/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/Python (Django).sublime-settings",
+		"/C/Users/13472/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/C/Users/13472/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/.git/COMMIT_EDITMSG",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/basic_app_base.html",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/advcbv/settings.py",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_list.html",
+		"/C/Users/13472/Google Drive (swierszczinator@gmail.com)/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_detail.html",
 		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/templates/base.html",
 		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_detail.html",
 		"/Users/michaelswierszcz/Google Drive/Programming/Udemy/udemy_django/Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_list.html",
@@ -145,7 +139,7 @@
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -177,7 +171,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -193,8 +187,8 @@
 						"selection":
 						[
 							[
-								109,
-								109
+								0,
+								0
 							]
 						],
 						"settings":
@@ -205,11 +199,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_confirm_delete.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/urls.py",
 					"semi_transient": false,
 					"settings":
@@ -221,41 +243,13 @@
 						"selection":
 						[
 							[
-								392,
-								392
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_confirm_delete.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								255,
-								255
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -277,13 +271,13 @@
 						"selection":
 						[
 							[
-								802,
-								802
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -291,41 +285,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/models.py",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 659,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								434,
-								434
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/advcbv/urls.py",
 					"semi_transient": false,
 					"settings":
@@ -337,38 +301,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/views.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1328,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1328,
-								1328
+								850,
+								850
 							]
 						],
 						"settings":
@@ -385,25 +319,55 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/templates/base.html",
+					"buffer": 5,
+					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/views.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1202,
+						"buffer_size": 1328,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								703,
-								703
+								35,
+								35
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/basic_app_base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -411,35 +375,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "Django/Django-Python-Full-Stack-Web-Devloper-master/Advanced_Django_CBV/advcbv/basic_app/templates/basic_app/school_list.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								138,
-								138
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -447,7 +383,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 19.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -484,7 +420,7 @@
 	"project": "udemy_django.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
